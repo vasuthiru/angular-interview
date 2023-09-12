@@ -2,6 +2,7 @@
 Interview Questions
 
 1. How to optimize an Angular application to increase its performance?
+
 There can be various methods by which we can increase the performance of an Angular application. They are:
 
 Reducing the bundle size 
@@ -10,6 +11,7 @@ AOT Compilation to pre-compile templates and reduce the runtime overhead
 Reactive programming to minimize unnecessary API calls and optimize data flow.
 
 2. What are Angular guards?
+
 Guards are a feature in Angular that allows users to manage and control the application's routing. Angular Guards can protect routes, 
 control access to certain routes based on user authentication, and perform pre-navigation checks or modifications.
 
@@ -24,6 +26,7 @@ JIT compilation generates the JavaScript code for templates as the application r
 JIT and AOT are both two ways used to compile code in an Angular project. JIT compiler is used in development mode while AOT is used for production mode.
 
 4.Explain transpiling in Angular?
+
 In Angular, transpiling refers to the process of converting the TypeScript code into JavaScript code that can be understood and executed by web browsers or other JavaScript runtime environments.
  Transpiling in Angular occurs internally as a part of the build process.
  
